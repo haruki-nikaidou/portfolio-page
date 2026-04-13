@@ -8,7 +8,7 @@
         {
           "name": "TypeScript",
           "level": 3,
-          "icon": "skill-icons:typescript-dark"
+          "icon": "skill-icons:typescript"
         },
         {
           "name": "PostgreSQL",
@@ -16,7 +16,7 @@
           "icon": "skill-icons:postgresql-dark"
         },
         { "name": "Redis", "level": 3, "icon": "skill-icons:redis-dark" },
-        { "name": "RabbitMQ", "level": 3, "icon": "skill-icons:rabbitmq" }
+        { "name": "RabbitMQ", "level": 3, "icon": "skill-icons:rabbitmq-light" }
       ]
     },
     {
@@ -32,7 +32,7 @@
         {
           "name": "Sass",
           "level": 2,
-          "icon": "skill-icons:sass-dark"
+          "icon": "skill-icons:sass"
         }
       ]
     },
@@ -41,8 +41,8 @@
       "skills": [
         { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" },
         { "name": "PHP", "level": 2, "icon": "skill-icons:php-dark" },
-        { "name": "Elixir", "level": 1, "icon": "skill-icons:elixir" },
-        { "name": "gRPC", "level": 2, "icon": "skill-icons:grpc" }
+        { "name": "Elixir", "level": 1, "icon": "skill-icons:elixir-dark" },
+        { "name": "Java", "level": 1, "icon": "skill-icons:java-light" }
       ]
     },
     {
@@ -55,13 +55,11 @@
     {
       "title": "Rarely Used Languages & Tools",
       "skills": [
-        { "name": "Haskell", "level": 1, "icon": "skill-icons:haskell" },
+        { "name": "Haskell", "level": 1, "icon": "skill-icons:haskell-dark" },
         { "name": "C", "level": 2, "icon": "skill-icons:c" },
-        { "name": "C++", "level": 1, "icon": "skill-icons:c-plusplus" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin" },
-        { "name": "Java", "level": 1, "icon": "skill-icons:java" },
-        { "name": "Solidity", "level": 2, "icon": "skill-icons:solidity" },
+        { "name": "C++", "level": 1, "icon": "skill-icons:cpp" },
+        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "Solidity", "level": 1, "icon": "skill-icons:solidity" },
         { "name": "Apache Kafka", "level": 1, "icon": "skill-icons:kafka" }
       ]
     },
@@ -70,10 +68,14 @@
       "skills": [
         { "name": "Docker", "level": 3, "icon": "skill-icons:docker" },
         { "name": "Kubernetes", "level": 1, "icon": "skill-icons:kubernetes" },
-        { "name": "Vercel", "level": 2, "icon": "skill-icons:vercel" },
-        { "name": "Nix", "level": 3, "icon": "skill-icons:nix" },
-        { "name": "AWS", "level": 1, "icon": "skill-icons:aws" },
-        { "name": "Terraform", "level": 1, "icon": "skill-icons:terraform" }
+        { "name": "Vercel", "level": 2, "icon": "skill-icons:vercel-dark" },
+        { "name": "Nix", "level": 3, "icon": "skill-icons:nix-light" },
+        { "name": "AWS", "level": 1, "icon": "skill-icons:aws-light" },
+        {
+          "name": "Terraform",
+          "level": 1,
+          "icon": "skill-icons:terraform-light"
+        }
       ]
     }
   ]
