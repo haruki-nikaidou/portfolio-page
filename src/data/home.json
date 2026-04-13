@@ -1,8 +1,8 @@
 {
   "name": "Amaki Eureka",
   "photoUrl": "avatar.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "intro": "That we can rise is reason enough to rise. That we can fall is no reason to fall.",
+  "introHtml": "That we can rise is reason enough to rise. <br>That we can fall is no reason to fall.",
   "webpageTitle": "Amaki Eureka",
   "blogUrl": "https://blog.plr.moe/",
   "socials": [
