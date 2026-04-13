@@ -1,20 +1,35 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Koibumi Blog",
+    "description": "A personal blog template built with Astro and SCSS, featuring a vivid color scheme and a custom design.",
+    "images": [
+      "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/72cdf5c2-a5c0-439e-ef9c-5bde325d7f00/small"
+    ],
+    "tech": ["Astro", "SCSS"],
     "platforms": ["web"],
-    "link": "#",
+    "link": "https://astro.koibumi.art/",
     "category": "Published Website"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "#",
-    "category": "Hobby"
+    "title": "Kanau",
+    "description": "A tokio based, asynchronous, functional programming library for Web development in Rust.",
+    "images": [
+      "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/b6dd2c83-3069-4da4-8606-735d3a12ba00/small"
+    ],
+    "tech": ["Rust"],
+    "platforms": [],
+    "link": "https://github.com/suitsu31-club/kanau",
+    "category": "Open Source Library"
+  },
+  {
+    "title": "Open Crypto Checkout",
+    "category": "Open Source Application",
+    "description": "A self-hosted, headless cryptocurrency checkout server for accepting stablecoin payments",
+    "images": [
+      "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/07053cde-3579-4b32-2028-cbb378e43d00/small"
+    ],
+    "tech": ["Rust", "PostgreSQL"],
+    "platforms": ["web", "linux"],
+    "link": "https://ocrch.suitsu31.club/"
   }
 ]
