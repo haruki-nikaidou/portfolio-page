@@ -5,10 +5,30 @@
     "images": [
       "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/72cdf5c2-a5c0-439e-ef9c-5bde325d7f00/small"
     ],
-    "tech": ["Astro", "SCSS"],
-    "platforms": ["web"],
+    "tech": [
+      "Astro",
+      "SCSS"
+    ],
+    "platforms": [
+      "web"
+    ],
     "link": "https://astro.koibumi.art/",
     "category": "Published Website"
+  },
+  {
+    "title": "Project Hematite",
+    "category": "Open Educational Content",
+    "description": "A comprehensive, open-source curriculum for learning Rust programming, covering everything from basics to advanced topics.",
+    "images": [
+      "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/5b053d4f-ab9e-43c8-efe0-344d8949c800/small"
+    ],
+    "tech": [
+      "Astro"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://ph.plr.moe/en"
   },
   {
     "title": "Kanau",
@@ -16,7 +36,9 @@
     "images": [
       "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/b6dd2c83-3069-4da4-8606-735d3a12ba00/small"
     ],
-    "tech": ["Rust"],
+    "tech": [
+      "Rust"
+    ],
     "platforms": [],
     "link": "https://github.com/suitsu31-club/kanau",
     "category": "Open Source Library"
@@ -28,8 +50,14 @@
     "images": [
       "https://imagedelivery.net/6gszw1iux5BH0bnwjXECTQ/07053cde-3579-4b32-2028-cbb378e43d00/small"
     ],
-    "tech": ["Rust", "PostgreSQL"],
-    "platforms": ["web", "linux"],
+    "tech": [
+      "Rust",
+      "PostgreSQL"
+    ],
+    "platforms": [
+      "web",
+      "linux"
+    ],
     "link": "https://ocrch.suitsu31.club/"
   }
 ]
